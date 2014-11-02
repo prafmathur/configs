@@ -1,0 +1,14 @@
+syntax enable
+set number
+set showcmd
+colorscheme desert
+set shiftwidth=4
+set expandtab
+set tabstop=2
+set cursorline
+set encoding=utf8
+set wildmenu
+set incsearch
+set hlsearch
+set ruler
+set mouse=a
